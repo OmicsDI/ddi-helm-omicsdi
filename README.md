@@ -3,6 +3,7 @@ Automation of Omicsdi deployment scripts
 
 Secrets are needed for deployment's to work, u can ask us to provide secret file
 
+```bash 
 cd profiledirpath
 helm install --name=omicsprofile --namespace=test ./
 
@@ -14,6 +15,7 @@ helm install --name=omicsdataflow --namespace=test ./
 
 cd frontenddirpath
 helm install --name=omicsfrontend --namespace=test ./
+```
 
 Omicsdi folder for installing Mongodb replica set and Omicsdi web services 
 
