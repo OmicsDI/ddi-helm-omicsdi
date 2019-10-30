@@ -27,6 +27,7 @@ spring-cloud-data-flow for installing spring cloud data flow server.
 
 Secret File Required for all deployments :-
 
+``` yaml
 apiVersion: v1
 kind: Secret
 metadata:
@@ -57,5 +58,5 @@ data:
   DDI_MONGO_MACHINE_ONE: 
   DDI_MONGO_MACHINE_THREE: 
   DDI_MONGO_MACHINE_TWO: 
-
+```
 
