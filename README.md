@@ -14,3 +14,13 @@ helm install --name=omicsdataflow --namespace=test ./
 
 cd frontenddirpath
 helm install --name=omicsfrontend --namespace=test ./
+
+Omicsdi folder for installing Mongodb replica set and Omicsdi web services 
+
+Omicsfront for installing web app and server side rendering
+
+OmicsProfile for installing profile services for user login
+
+spring-cloud-data-flow for installing spring cloud data flow server.
+
+
