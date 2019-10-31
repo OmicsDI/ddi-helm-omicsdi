@@ -60,3 +60,5 @@ data:
   DDI_MONGO_MACHINE_TWO: 
 ```
 
+Docker Images need to be generated as per requirements as images used in above source code have predefined values
+
