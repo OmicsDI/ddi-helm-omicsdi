@@ -4,6 +4,11 @@ Automation of Omicsdi deployment scripts
 Secrets are needed for deployment's to work, u can ask us to provide secret file
 
 ```bash 
+
+$ helm lint mychart
+
+//for finding issues in charts
+
 cd profiledirpath
 helm install --name=omicsprofile --namespace=test ./
 
