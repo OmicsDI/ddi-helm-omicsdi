@@ -1,3 +1,5 @@
+https://www.thegeekdiary.com/error-could-not-find-a-ready-tiller-pod-helm-error/ 
+
 # ddi-helm-omicsdi
 Automation of Omicsdi deployment scripts 
 
